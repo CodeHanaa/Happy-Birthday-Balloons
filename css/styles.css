@@ -1,0 +1,6 @@
+html,body{margin:0;padding:0;overflow:hidden}
+body{
+  /* استبدلي الرابط بصورة الخلفية التي تريدينها */
+  background:url("bg.jpg") no-repeat center/cover fixed;
+}
+canvas{display:block}
